@@ -1,6 +1,6 @@
 # UberShop (JSP)
 
-Loja online desenvolvida em **Java (JSP/Servlets) com JDBC e MySQL**, no âmbito da licenciatura em Engenharia Informática (IPCB).
+Loja online desenvolvida em **Java (JSP) com JDBC e MySQL**, no âmbito da licenciatura em Engenharia Informática (IPCB).
 
 ## Funcionalidades
 
@@ -13,7 +13,7 @@ Loja online desenvolvida em **Java (JSP/Servlets) com JDBC e MySQL**, no âmbito
 
 ## Tecnologias
 
-- Java, JSP, Servlets
+- Java, JSP
 - JDBC com `PreparedStatement`
 - MySQL (scripts em `basedados/`)
 - HTML/CSS
